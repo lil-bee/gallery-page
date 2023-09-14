@@ -1,0 +1,21 @@
+.footer {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	color: #bdbdbd;
+	text-align: center;
+	font-size: 14px;
+	font-weight: 500;
+	margin-top: 93px;
+	margin-bottom: 24px;
+}
+
+.footer a {
+	color: #bdbdbd;
+
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	text-decoration-line: underline;
+}
